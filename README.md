@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет 👋
+
+##### Меня зовут Иван! Я начинающий разработчик. Занимаюсь программированием на Python.
+
+##### Примеры моих работ:
+ - gfhdgh
+ - ghdfh
+ - gfhdgf
 
 <!--
 **IvanSitnikov1/IvanSitnikov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
