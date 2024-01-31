@@ -3,9 +3,10 @@
 ##### Меня зовут Иван! Я начинающий разработчик. Занимаюсь программированием на Python.
 
 ##### Примеры моих работ:
- - gfhdgh
- - ghdfh
- - gfhdgf
+ - [Веб-приложение для планирования задач](https://github.com/IvanSitnikov1/planner)
+ - [Сайт-блог про мотоциклы](https://github.com/IvanSitnikov1/moto_site)
+ - [API для модели склада](https://github.com/IvanSitnikov1/fold)
+ - [Обзорщик персонажей по сериалу Рик и Морти](https://github.com/IvanSitnikov1/rick)
 
 <!--
 **IvanSitnikov1/IvanSitnikov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
