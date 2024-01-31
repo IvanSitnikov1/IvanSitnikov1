@@ -8,6 +8,8 @@
  - [API для модели склада](https://github.com/IvanSitnikov1/fold)
  - [Обзорщик персонажей по сериалу Рик и Морти](https://github.com/IvanSitnikov1/rick)
 
+#### Мой основной стек: Python | ООП | Django | DRF | Flask | Git | SQL | Linux | REST API | Docker | JavaScript | HTML | CSS
+
 <!--
 **IvanSitnikov1/IvanSitnikov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
