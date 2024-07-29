@@ -5,11 +5,11 @@
 ##### Примеры моих работ:
  - [Веб-приложение для планирования задач](https://github.com/IvanSitnikov1/planner)
  - [Сайт-блог про мотоциклы](https://github.com/IvanSitnikov1/moto_site)
- - [API для модели склада](https://github.com/IvanSitnikov1/fold)
+ - [API для склада](https://github.com/IvanSitnikov1/fold)
  - [Обзорщик персонажей по сериалу Рик и Морти](https://github.com/IvanSitnikov1/rick)
  - [Телеграмм бот для скачивания видео с YouTube](https://github.com/IvanSitnikov1/pull_video_bot)
 
-#### Мой основной стек: Python | ООП | Django | DRF | Flask | Git | SQL | Linux | REST API | Docker | JavaScript | HTML | CSS | aiogram
+#### Мой основной стек: Python | Django | DRF | Flask | FastApi | aiogram | celery | unittest | Git | SQL | Postgresql | Redis | Linux | Docker | React
 
 <!--
 **IvanSitnikov1/IvanSitnikov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
